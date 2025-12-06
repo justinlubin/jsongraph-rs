@@ -4,6 +4,9 @@ version = "0.1.0"
 edition = "2024"
 description = "JSON Graph Format data structures"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/justinlubin/jsongraph-rs"
+categories = ["encoding"]
+keywords = ["json", "graph"]
 
 [dependencies]
 indexmap = { version = "2.12.1", features = ["serde"] }
